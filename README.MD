@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Rafi Valli][rafivalli]][rafi-github]
+[![rafivalli]][rafi-github]
 
 #### I'm a Student of Computer Science Education
 
