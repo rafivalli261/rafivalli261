@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Rafi Valli][rafivalli]
+[![Rafi Valli][rafivalli]][rafi-github]
 
 #### I'm a Student of Computer Science Education
 
@@ -26,3 +26,4 @@
 [ig]: https://instagram.com/rafivalli261
 [dibensinan]: https://github.com/rafivalli261/login-DiBensinan
 [rafivalli]: images/rafivalli261.png
+[rafi-github]: https://github.com/rafivalli261
