@@ -6,9 +6,9 @@
 
 ##### NOW
 
--  ✨ Working on project [DiBensinan][dibensinan]
--  🇮🇩 Bandung is a best city
--  ♦️ What about this?
+-  ✨ Bangkit Cohort 2023, Machine Learning Path
+-  🇮🇩 Bandung, Indonesia
+-  ♦️ _"Failure is fate but giving up is a choice"_
 
 ##### BIO
 
