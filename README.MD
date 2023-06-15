@@ -26,4 +26,4 @@
 
 [ig]: https://instagram.com/rafivalli261
 [HangoutYuk!]: https://github.com/HangoutYuk
-[rafivalli]: images/rafivalli261.png
+[rafivalli]: https://github.com/rafivalli261/rafivalli261/blob/main/images/rafivalli261.png
